@@ -1,16 +1,12 @@
-# Practicum Coffee Shop
 
-This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
+# Project Title
 
-## Project features
+Practicum Project 2
 
-- Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM
-- A custom form
-- CSS animation and transform
 
-## Plan on improving the project
+## Project Description
 
-Add your ideas here :)
+Creating a landing page for a cafe with recipes, booking, menu, and contacts
+## Plans for Improving the Project
+- ensure page follows WCAG2
+- make available in other languages
