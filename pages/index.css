@@ -189,7 +189,7 @@
 .reservation {
   background-color: #d9e7ff;
   background-image: url(../images/background_reservation.svg);
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 80px;
