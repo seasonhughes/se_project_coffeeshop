@@ -1,0 +1,22 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.nav__links {
+  display: flex;
+  list-style: none;
+  margin-right: 80px;
+  column-gap: 20px;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: #000000;
+}
