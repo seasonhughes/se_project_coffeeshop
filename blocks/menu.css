@@ -29,12 +29,14 @@
   margin: 0 auto;
   max-width: 780px;
   margin-top: 24px;
+  margin-bottom: 100px;
   width: 100%;
 }
 
 .menu__cards {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
 }

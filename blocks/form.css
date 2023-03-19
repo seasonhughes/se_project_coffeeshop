@@ -4,7 +4,8 @@
 
 .form__fieldset {
   border: none;
-  padding: none;
+  padding: 0;
+  margin: 0 auto;
 }
 
 .form__label {
@@ -39,6 +40,7 @@
   margin-bottom: 32px;
   background-color: #2f80ed;
   color: #ffffff;
+  padding: 0;
 }
 
 .form__button:hover {
