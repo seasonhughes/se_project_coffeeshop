@@ -4,14 +4,14 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  padding-top: 80px;
+  padding-top: 100px;
   padding-bottom: 120px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 .reservation__title {
-  font-family: Inter;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -20,5 +20,5 @@
   margin-bottom: 80px;
 }
 
-.reservation__form_ {
+.reservation__form {
 }
