@@ -21,6 +21,8 @@
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
+  position: relative;
+  z-index: 1;
 }
 
 .header__span-accent {
@@ -31,6 +33,8 @@
   font-size: 60px;
   line-height: 72px;
   color: #2f80ed;
+  position: relative;
+  z-index: 1;
 }
 
 .header__description {
@@ -41,6 +45,8 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  position: relative;
+  z-index: 1;
 }
 
 .header__image {
