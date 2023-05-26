@@ -16,6 +16,7 @@
   max-width: 729px;
   margin: 0;
   margin-top: 80px;
+  margin-left: 80px;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -66,17 +67,7 @@
   position: absolute;
   left: 0;
   bottom: 40px;
-}
-
-.header__hours {
-  display: flex;
-  flex-direction: column;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
-  color: #838383;
+  align-items: flex-end;
 }
 
 .header__paragraph {
@@ -87,6 +78,4 @@
   font-size: 16px;
   line-height: 20px;
   color: #838383;
-  display: flex;
-  align-items: flex-end;
 }

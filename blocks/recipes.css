@@ -39,7 +39,8 @@
   justify-content: center;
 }
 
-.recipes__iframe {
+.recipes__embed {
+  border: none;
   margin: 0;
   padding: 0;
   width: 480px;
